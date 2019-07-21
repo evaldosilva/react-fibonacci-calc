@@ -1,0 +1,65 @@
+/*===============================================================================*/
+/* Made By Evaldo Silva on 21/07/2019                                            */
+/* GITHUB: https://github.com/evaldosilva                                        */
+/*===============================================================================*/
+
+/*===============================================================================*/
+/* Style for the fibonacci number of the sequence                                */
+/*===============================================================================*/
+.fibonacci-value {
+  color: white;
+  background-color: lightslategray;
+  padding: 4px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+/*===============================================================================*/
+/* Style for the fibonacci component frame                                       */
+/*===============================================================================*/
+.fibonacci-frame {
+  color: white;
+  background-color: #333;
+  padding: 4px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.fibonacci-frame div {
+  padding: 4px;
+}
+
+/*===============================================================================*/
+/* Style for the fibonacci number of the sequence                                */
+/*===============================================================================*/
+.error-message {
+  color: white;
+  background-color: mediumvioletred;
+  padding: 1px 10px;
+  margin: 1px;
+  border-radius: 10px;
+}
+
+/*===============================================================================*/
+/* Style for standard buttons, size normal                                  */
+/*===============================================================================*/
+.standard-normal-button {
+  background-color: darkcyan;
+  border: none;
+  color: white;
+  padding: 4px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  width: 50%;
+  border-radius: 10px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.standard-normal-button:hover {
+  background-color: aquamarine; /* Green */
+  color: darkcyan;
+}
+/*===============================================================================*/
